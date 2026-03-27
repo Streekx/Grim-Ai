@@ -1,0 +1,5 @@
+{
+  "name": "Grim AI - Founder Edition",
+  "description": "A standalone Web Chat Interface for the custom PyTorch LLM 'Grim AI' using Gradio.",
+  "requestFramePermissions": []
+}
